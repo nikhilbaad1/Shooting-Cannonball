@@ -13,6 +13,7 @@ public class Hero : MonoBehaviour
     public Color originalColor;
     public Color hitColor = Color.red;
 
+
     // Start is called before the first frame update
     void Awake()
     {

@@ -16,6 +16,7 @@ public class Turret : MonoBehaviour
     public Color hitColor = Color.white;
 
 
+
     void Awake()
     {
         originalColor = this.GetComponent<Renderer>().material.color;

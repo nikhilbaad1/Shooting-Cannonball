@@ -14,6 +14,7 @@ public class MagicOrb : MonoBehaviour
     private bool canMove = true;
     // Start is called before the first frame update
     void Awake()
+
     {
         this.GetComponent<AudioSource>().PlayOneShot(audioShoot);
     }

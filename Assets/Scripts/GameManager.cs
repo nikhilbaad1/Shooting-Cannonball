@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
     }
 
 
+
     void DisplayProperties()
     {
         Playertext.text = "Player Health :"+player.playerHealth.ToString();

@@ -12,6 +12,7 @@ public class CannonBall : MonoBehaviour
    public  ParticleSystem particle = null;
     private bool isActive = true;
     public float delayTime = 2.0f;
+
     private void Awake()
     {
         this.GetComponent<Rigidbody>().AddRelativeForce(new Vector3(0, GetRandomValue(), GetRandomValue()));
