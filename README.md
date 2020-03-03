@@ -4,4 +4,4 @@ Project descriptionThis Shooting Cannonball game is a one-player game where play
 
 Scripts are in ```Assets```
 
-![Screenshot]()
+![Screenshot](https://github.com/nikhilbaad1/Shooting-Cannonball/blob/master/sc.png)
